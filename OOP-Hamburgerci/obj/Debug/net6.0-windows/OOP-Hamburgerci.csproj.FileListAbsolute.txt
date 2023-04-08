@@ -1,0 +1,44 @@
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.exe
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.deps.json
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.runtimeconfig.json
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.dll
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.pdb
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form1.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form2.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form3.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form4.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.MyMDIForm.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.AssemblyInfoInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.AssemblyInfo.cs
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.dll
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\refint\OOP-Hamburgerci.dll
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.pdb
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.genruntimeconfig.cache
+C:\Users\sinan\OneDrive\Masaüstü\bilge adam1\(2)4.hafta Aralık\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\ref\OOP-Hamburgerci.dll
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.exe
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.deps.json
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.runtimeconfig.json
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.dll
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\bin\Debug\net6.0-windows\OOP-Hamburgerci.pdb
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form1.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form2.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form3.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Form4.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.MyMDIForm.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.GenerateResource.cache
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.AssemblyInfoInputs.cache
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.AssemblyInfo.cs
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.dll
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\refint\OOP-Hamburgerci.dll
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.pdb
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\OOP-Hamburgerci.genruntimeconfig.cache
+C:\Users\Halil İbrahim\Desktop\OOP-Hamburgerci\OOP-Hamburgerci\OOP-Hamburgerci\obj\Debug\net6.0-windows\ref\OOP-Hamburgerci.dll
